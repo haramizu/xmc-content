@@ -1,8 +1,75 @@
 {
   "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
-  "namespace": "Project.Example",
+  "namespace": "Project.SxastarterExample",
   "items": {
     "includes": [
+      {
+        "name": "templatesProject",
+        "path": "/sitecore/templates/Project/sxastarter",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templatesFeature",
+        "path": "/sitecore/templates/Feature/sxastarter",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "branchesProject",
+        "path": "/sitecore/templates/Branches/Project/sxastarter",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "branchesFeature",
+        "path": "/sitecore/templates/Branches/Feature/sxastarter",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "modules",
+        "path": "/sitecore/system/Settings/Feature/sxastarter",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "projectMediaFolders",
+        "path": "/sitecore/Media Library/Project/sxastarter",
+        "rules": [
+          {
+            "path": "/shared",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/sxastarter",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          }
+        ]
+      },
+      {
+        "name": "layoutsProject",
+        "path": "/sitecore/Layout/Layouts/Project/sxastarter",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "layoutsFeature",
+        "path": "/sitecore/Layout/Layouts/Feature/sxastarter",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "projectRenderings",
+        "path": "/sitecore/Layout/Renderings/Project/sxastarter",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "projectPlaceholderSettings",
+        "path": "/sitecore/Layout/Placeholder Settings/Project/sxastarter",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tenantRoot",
+        "path": "/sitecore/content/sxastarter",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
       {
         "name": "site",
         "path": "/sitecore/content/sxastarter/sxastarter",
@@ -47,6 +114,17 @@
             "scope": "Ignored"
           }
         ]
+      },
+      {
+        "name": "languages",
+        "path": "/sitecore/system/Languages/ja-JP",
+        "scope": "singleItem"
+      },
+      {
+        "name": "core-languages",
+        "path": "/sitecore/system/Languages/ja-JP",
+        "scope": "singleItem",
+        "database": "core"
       }
     ]
   }
