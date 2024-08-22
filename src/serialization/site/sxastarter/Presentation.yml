@@ -1,8 +1,8 @@
 ﻿---
-ID: "e634ab6b-d1fa-47c3-86e7-f9371f2ec879"
-Parent: "f6ed520b-3370-4a52-b69c-2d754986ca1a"
+ID: "bf744e20-278d-47a6-975e-bd58fc2097f0"
+Parent: "bc63586f-5bac-4dd8-a8d3-09c744aae927"
 Template: "0a70fa73-8923-4a6e-abf3-4134f25f3221"
-Path: /sitecore/content/sxastarter/sxastarter/Presentation
+Path: /sitecore/content/Sites/sxastarter/Presentation
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
@@ -18,7 +18,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240726T042737Z
+      Value: 20240822T063052Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -29,40 +29,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6f48880a-d234-4991-914a-456acfc3fc90"
+      Value: "515d3994-21c1-46eb-ae34-ca922e93cdb4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240726T042737Z
-- Language: "ja-JP"
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: プレゼンテーション
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20240726T060104Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\Admin
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "5e442dba-6955-4299-877d-10bb6deba837"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20240726T060104Z
+      Value: 20240822T063052Z

@@ -1,13 +1,13 @@
 ﻿---
-ID: "c211bc53-1bc1-41da-8ec9-3195db74e5a7"
-Parent: "f6ed520b-3370-4a52-b69c-2d754986ca1a"
-Template: "bc05525f-d9ef-4549-96b5-d35ba0b0b883"
-Path: /sitecore/content/sxastarter/sxastarter/Settings
+ID: "0d314e36-24b4-4eeb-96b9-b746b1d96614"
+Parent: "bc63586f-5bac-4dd8-a8d3-09c744aae927"
+Template: "58db13d0-efe8-45b9-a444-6f2e63c7c1a7"
+Path: /sitecore/content/Sites/sxastarter/Settings
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "0129da3f-8c86-4591-ae32-6ec923413923"
   Hint: DictionaryDomain
-  Value: "{F96D037D-A559-4B1D-8B2E-77E553C03958}"
+  Value: "{00AC222A-F75B-4CB6-B3DF-EFA8B1E1C911}"
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
@@ -16,16 +16,16 @@ SharedFields:
   Value: Settings Route
 - ID: "32ce6bbe-4217-46e5-9335-42793884cbe3"
   Hint: AppTemplate
-  Value: "{221E4057-8262-4E13-9D28-75BC3E93B904}"
+  Value: "{FF2E08B8-68F4-4C89-8608-9F3861E9182A}"
 - ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
   Hint: Name
   Value: sxastarter
 - ID: "5764d2d4-724d-4313-a81b-9246c911faff"
   Hint: AppDatasourcesPath
-  Value: "{5CA41F2A-B726-48F6-88F3-39B6CADD71F8}"
+  Value: "{71C80F02-317F-46EA-B054-79800B3296E7}"
 - ID: "5ca117eb-8782-4a4f-9f2f-30de31fc2e34"
   Hint: PlaceholdersPath
-  Value: "{A6DE9816-201D-4054-AAA2-6E36D27052EB}"
+  Value: "{4AEF0461-F399-4466-BF5E-D02C344456BE}"
 - ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
   Hint: FilesystemPath
   Value: /dist/sxastarter
@@ -34,7 +34,7 @@ SharedFields:
   Value: http
 - ID: "a7bbad73-b933-49ff-95c8-1c269cb35e7c"
   Hint: DictionaryPath
-  Value: "{F96D037D-A559-4B1D-8B2E-77E553C03958}"
+  Value: "{00AC222A-F75B-4CB6-B3DF-EFA8B1E1C911}"
 - ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
   Hint: EditingTheme
   Value: "{3BCAB9EF-1E4F-4C23-B452-783BB82AA686}"
@@ -46,10 +46,10 @@ SharedFields:
   Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
 - ID: "e8881464-38af-4655-be4a-ee10586578a2"
   Hint: Templates
-  Value: "{6687D465-D486-4192-8207-C35D80B82689}"
+  Value: "{F5C7AC6F-BB6B-4D1D-9452-511C6079E3A4}"
 - ID: "f29428d5-1285-48b8-a884-44057965829a"
   Hint: RenderingsPath
-  Value: "{5B59290C-BB86-40C9-999F-CB46EC906709}"
+  Value: "{893D69D8-B2D6-44C3-B1D4-283BE6F0E3ED}"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{0FEEB907-58F0-44DE-B08C-2F43C063D0A5}"
@@ -60,7 +60,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240726T042737Z
+      Value: 20240822T063052Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -71,40 +71,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e83d23d2-30c2-4a7d-8e32-7adb5a063455"
+      Value: "2be778da-ce44-4149-81fa-6d4f210452e9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240726T042738Z
-- Language: "ja-JP"
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: 設定
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20240726T060844Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\Admin
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "c35a94a7-5c68-42a0-9c9e-73d85b7a61fc"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20240726T060844Z
+      Value: 20240822T063053Z

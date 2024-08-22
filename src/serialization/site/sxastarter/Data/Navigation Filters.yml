@@ -1,8 +1,8 @@
 ﻿---
-ID: "064b4803-1aaf-4f26-8391-f8f339572db3"
-Parent: "5ca41f2a-b726-48f6-88f3-39b6cadd71f8"
+ID: "f1e8d585-8014-4bee-ad7c-cf6eaf55c858"
+Parent: "71c80f02-317f-46ea-b054-79800b3296e7"
 Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
-Path: /sitecore/content/sxastarter/sxastarter/Data/Navigation Filters
+Path: /sitecore/content/Sites/sxastarter/Data/Navigation Filters
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240726T042751Z
+      Value: 20240822T063106Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,40 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2b81750d-cd94-4582-bec3-1854ac8f2359"
+      Value: "37edb257-2718-4f85-9195-2434018fc866"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240726T042751Z
-- Language: "ja-JP"
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: ナビゲーションフィルタ
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20240726T060818Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "096bdf9b-a294-4db0-b27a-8721c528f896"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20240726T061055Z
+      Value: 20240822T063106Z

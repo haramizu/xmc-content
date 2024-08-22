@@ -1,36 +1,36 @@
 {
   "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
-  "namespace": "Project.SxastarterExample",
+  "namespace": "Project.SxaStarterExample",
   "items": {
     "includes": [
       {
         "name": "templatesProject",
-        "path": "/sitecore/templates/Project/sxastarter",
+        "path": "/sitecore/templates/Project/Sites",
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
         "name": "templatesFeature",
-        "path": "/sitecore/templates/Feature/sxastarter",
+        "path": "/sitecore/templates/Feature/Sites",
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
         "name": "branchesProject",
-        "path": "/sitecore/templates/Branches/Project/sxastarter",
+        "path": "/sitecore/templates/Branches/Project/Sites",
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
         "name": "branchesFeature",
-        "path": "/sitecore/templates/Branches/Feature/sxastarter",
+        "path": "/sitecore/templates/Branches/Feature/Sites",
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
         "name": "modules",
-        "path": "/sitecore/system/Settings/Feature/sxastarter",
+        "path": "/sitecore/system/Settings/Feature/Sites",
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
         "name": "projectMediaFolders",
-        "path": "/sitecore/Media Library/Project/sxastarter",
+        "path": "/sitecore/Media Library/Project/Sites",
         "rules": [
           {
             "path": "/shared",
@@ -46,74 +46,33 @@
       },
       {
         "name": "layoutsProject",
-        "path": "/sitecore/Layout/Layouts/Project/sxastarter",
+        "path": "/sitecore/Layout/Layouts/Project/Sites",
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
         "name": "layoutsFeature",
-        "path": "/sitecore/Layout/Layouts/Feature/sxastarter",
+        "path": "/sitecore/Layout/Layouts/Feature/Sites",
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
         "name": "projectRenderings",
-        "path": "/sitecore/Layout/Renderings/Project/sxastarter",
+        "path": "/sitecore/Layout/Renderings/Project/Sites",
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
         "name": "projectPlaceholderSettings",
-        "path": "/sitecore/Layout/Placeholder Settings/Project/sxastarter",
+        "path": "/sitecore/Layout/Placeholder Settings/Project/Sites",
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
         "name": "tenantRoot",
-        "path": "/sitecore/content/sxastarter",
+        "path": "/sitecore/content/Sites",
         "scope": "SingleItem",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
         "name": "site",
-        "path": "/sitecore/content/sxastarter/sxastarter",
-        "rules": [
-          {
-            "path": "/home",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateOnly"
-          },
-          {
-            "path": "/Media",
-            "scope": "SingleItem",
-            "allowedPushOperations": "CreateAndUpdate"
-          },
-          {
-            "path": "/Data",
-            "scope": "ItemAndChildren",
-            "allowedPushOperations": "CreateAndUpdate"
-          },
-          {
-            "path": "/Dictionary",
-            "scope": "ItemAndChildren",
-            "allowedPushOperations": "CreateOnly"
-          },
-          {
-            "path": "/Presentation",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateAndUpdate"
-          },
-          {
-            "path": "/Settings/Site Grouping",
-            "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateOnly"
-          },
-          {
-            "path": "/Settings",
-            "scope": "ItemAndChildren",
-            "allowedPushOperations": "CreateAndUpdate"
-          },
-          {
-            "path": "*",
-            "scope": "Ignored"
-          }
-        ]
+        "path": "/sitecore/content/Sites/sxastarter"
       },
       {
         "name": "languages",

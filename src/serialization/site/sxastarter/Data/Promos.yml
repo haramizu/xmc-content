@@ -1,8 +1,8 @@
 ﻿---
-ID: "4f7534df-6107-43b6-a85f-ba0a14a9eacf"
-Parent: "5ca41f2a-b726-48f6-88f3-39b6cadd71f8"
+ID: "0c91afb0-9042-4244-91d7-391d56f9a434"
+Parent: "71c80f02-317f-46ea-b054-79800b3296e7"
 Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
-Path: /sitecore/content/sxastarter/sxastarter/Data/Promos
+Path: /sitecore/content/Sites/sxastarter/Data/Promos
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240726T042753Z
+      Value: 20240822T063108Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,40 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3367411b-4595-49b8-8bcb-35ead675af50"
+      Value: "d89c833c-432a-47d0-ba9e-136f4eace470"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240726T042753Z
-- Language: "ja-JP"
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: プロモ
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20240726T060821Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "aec34a39-1e2a-4e4f-9ed2-d1a470d8d76a"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20240726T061048Z
+      Value: 20240822T063108Z

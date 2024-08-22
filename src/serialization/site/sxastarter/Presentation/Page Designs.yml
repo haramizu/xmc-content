@@ -1,13 +1,13 @@
 ﻿---
-ID: "e51fa277-eca5-4718-a97e-d927821747b4"
-Parent: "e634ab6b-d1fa-47c3-86e7-f9371f2ec879"
-Template: "672492c9-de1a-4147-ad42-96e66bc047c2"
-Path: /sitecore/content/sxastarter/sxastarter/Presentation/Page Designs
+ID: "5a1c6db4-c678-4a0d-bb07-e9ed95f63c80"
+Parent: "bf744e20-278d-47a6-975e-bd58fc2097f0"
+Template: "1284e84d-a34d-4328-a8db-15a1171917fd"
+Path: /sitecore/content/Sites/sxastarter/Presentation/Page Designs
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
   Hint: TemplatesMapping
-  Value: "%7bECBEDBD8-54BE-430E-B89E-681EE99E575D%7d%3d%257B663DAFC9-C42D-462D-AA28-B1FD593EFE85%257D"
+  Value: "%7bB167E969-F35A-4969-A585-96D41C9EBF39%7d%3d%257BD4346A5F-16EE-4BFC-951D-3AD1597B7DF2%257D"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
@@ -18,7 +18,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240726T042737Z
+      Value: 20240822T063052Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -29,40 +29,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fc212acc-a2a8-4238-8c8b-aed2f84d898d"
+      Value: "7291c137-0ff7-481a-850a-4d6c04482bd7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240726T042803Z
-- Language: "ja-JP"
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: ページ デザイン
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20240726T060123Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\Admin
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "57dad11d-cc02-41b1-a9a0-4ce50ed9bc89"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20240726T060123Z
+      Value: 20240822T063118Z

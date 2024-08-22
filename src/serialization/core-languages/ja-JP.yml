@@ -1,5 +1,5 @@
 ﻿---
-ID: "dbf3c90c-f606-4614-bccd-94124ec2b611"
+ID: "f6c25ef5-4eba-41e3-898f-c42626987d5c"
 Parent: "64c4f646-a3fa-4205-b98e-4de2c609b60f"
 Template: "f68f13a6-3395-426a-b9a1-fa2dc60d94eb"
 Path: "/sitecore/system/Languages/ja-JP"
@@ -26,7 +26,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240726T053829Z
+      Value: 20240822T072019Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -37,11 +37,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d281c1a1-bfc2-4db0-84e6-004904fb9663"
+      Value: "42246fe4-60bd-431e-a679-5c237235b08b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240726T053829Z
+      Value: 20240822T072019Z

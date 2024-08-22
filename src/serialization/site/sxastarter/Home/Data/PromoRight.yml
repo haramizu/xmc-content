@@ -1,8 +1,8 @@
 ﻿---
-ID: "c15c4ca8-d41d-4302-a064-a286093602c1"
-Parent: "a6efb299-62d9-42c8-9577-25b899ff904a"
+ID: "f61772b7-e8f8-4f0b-b948-ae99f96c4443"
+Parent: "5073031d-5e3f-4255-99e4-a239191b156f"
 Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
-Path: /sitecore/content/sxastarter/sxastarter/Home/Data/PromoRight
+Path: /sitecore/content/Sites/sxastarter/Home/Data/PromoRight
 BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240726T042800Z
+      Value: 20240822T063114Z
     - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
       Hint: PromoText
       Value: |
@@ -31,52 +31,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c5432574-7eaa-4d07-8bd1-83ac5cbb2459"
+      Value: "d0dfaaee-05b6-4801-a920-6ebfc51a0d80"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240726T042800Z
-    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
-      Hint: PromoIcon
-      Value: |
-        <image mediaid="{7DC4262C-8DF4-4A34-9D65-ACD13F695168}" />
-- Language: "ja-JP"
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: プロモーション右
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20240726T055907Z
-    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
-      Hint: PromoText
-      Value: |
-        <h3>最新の製品 </h3>
-        Lorem ipsum dolor sit amet，consecteturadipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus.
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\Admin
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "755728d3-47ce-4431-a8f5-5d9c4f009de8"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20240726T055913Z
+      Value: 20240822T063114Z
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |

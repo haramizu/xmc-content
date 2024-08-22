@@ -1,8 +1,8 @@
 ﻿---
-ID: "43ccaa53-eaee-46ab-b72b-41043583d111"
-Parent: "ffd0de8c-f66b-4cdc-ab0c-ac03754f00bb"
+ID: "aa4e19ba-c4cc-4dfc-a1e8-46e8b2e7f577"
+Parent: "71e2609c-4048-418a-a53c-a7e0d712e4fa"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
-Path: /sitecore/content/sxastarter/sxastarter/Presentation/Partial Designs/Footer/Data/Address
+Path: /sitecore/content/Sites/sxastarter/Presentation/Partial Designs/Footer/Data/Address
 BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240726T042758Z
+      Value: 20240822T063112Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -36,50 +36,11 @@ Languages:
         <div><span><br /></span></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "acddb464-3d9a-49da-bfd5-72fb8a231cc2"
+      Value: "5d34f090-a613-4f01-86bc-1a6a53be3b62"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240726T042758Z
-- Language: "ja-JP"
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: アドレス
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20240726T060222Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\Admin
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
-      Hint: Text
-      Value: |
-        <span id="docs-internal-guid-17237c97-7fff-f61d-384b-b66bc74de880"></span>
-        <p><span>スケートパーク </span></p>
-        <p><span>12 Forever Street</span></p>
-        <p><span>A99 B44</span></p>
-        <p><span>The Nation of Skate</span></p>
-        <p><span>（製作：<a href="https://www.sitecore.com/">Sitecore）</a></span></p>
-        <div><span><br /></span></div>
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "cf2f2aa3-d31a-4010-b723-6e519d55576c"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20240726T060222Z
+      Value: 20240822T063112Z
