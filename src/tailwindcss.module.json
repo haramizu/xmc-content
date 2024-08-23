@@ -1,0 +1,121 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "tailwindcss",
+  "items": {
+    "includes": [
+      {
+        "name": "tailwindcss-templatesProject",
+        "path": "/sitecore/templates/Project/Tailwindcss",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tailwindcss-templatesFeature",
+        "path": "/sitecore/templates/Feature/Tailwindcss",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tailwindcss-branchesFeature",
+        "path": "/sitecore/templates/Branches/Feature/Tailwindcss",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tailwindcss-modules",
+        "path": "/sitecore/system/Settings/Feature/Tailwindcss",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tailwindcss-projectMediaFolders",
+        "path": "/sitecore/Media Library/Project/Tailwindcss",
+        "rules": [
+          {
+            "path": "/shared",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Tailwindcss",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          }
+        ]
+      },
+      {
+        "name": "tailwindcss-layoutsFeature",
+        "path": "/sitecore/Layout/Layouts/Feature/Tailwindcss",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tailwindcss-projectRenderingsFeature",
+        "path": "/sitecore/layout/Renderings/Feature/Tailwindcss",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tailwindcss-projectRenderings",
+        "path": "/sitecore/Layout/Renderings/Project/Tailwindcss",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tailwindcss-projectPlaceholderSettings",
+        "path": "/sitecore/Layout/Placeholder Settings/Project/Tailwindcss",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tailwindcss-tenantRoot",
+        "path": "/sitecore/content/Tailwindcss",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "tailwindcss-site",
+        "path": "/sitecore/content/Tailwindcss/Tailwindcss",
+        "rules": [
+          {
+            "path": "/home",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Media",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "/Data",
+            "scope": "ItemAndChildren",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "/Dictionary",
+            "scope": "ItemAndChildren",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Presentation",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "/Settings/Site Grouping",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Settings",
+            "scope": "ItemAndChildren",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "*",
+            "scope": "Ignored"
+          }
+        ]
+      },
+      {
+        "name": "tailwindcss-RenderingHost",
+        "path": "/sitecore/system/Settings/Services/Rendering Hosts/Tailwindcss",
+        "scope": "singleItem",
+        "allowedPushOperations": "CreateOnly"
+      }
+    ]
+  }
+}

@@ -1,13 +1,13 @@
 ﻿---
-ID: "9b7a6964-5c6f-4a53-a580-44412020579d"
+ID: "d3a91ad6-3db4-49d2-a118-744afd95b704"
 Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
-Template: "cee3b316-6014-430d-8647-34cec5cbd78a"
+Template: "0d47c494-49b7-46be-9892-0b21fa7696fd"
 Path: /sitecore/content/Sites
 BranchID: "2d3805b9-3089-44f3-b952-d45c44add7f8"
 SharedFields:
 - ID: "102b58da-2a86-4953-b3cd-c9f91256b657"
   Hint: PlaceholderSettingsFolder
-  Value: "{4AEF0461-F399-4466-BF5E-D02C344456BE}"
+  Value: "{F1972AED-43DE-41AD-9A23-B505D523D7AD}"
 - ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
   Hint: Modules
   Value: |
@@ -24,25 +24,25 @@ SharedFields:
     {6DE1F4E9-815D-491D-923D-D5038100DBEE}
 - ID: "800dc4ed-0846-45ba-b112-19902af240f6"
   Hint: SharedMediaLibrary
-  Value: "{E8015772-2B3F-47F7-B7DC-8B4BFEC38878}"
+  Value: "{7175A5C7-682B-4F66-9474-5CA28B5CB9DC}"
 - ID: "853b245f-53e4-4ebe-bab5-299f9de314b6"
   Hint: RenderingsFolder
-  Value: "{893D69D8-B2D6-44C3-B1D4-283BE6F0E3ED}"
+  Value: "{2037B3D2-E096-4AF1-9083-6D04B265472D}"
 - ID: "85a7501a-86d9-4243-9075-0b727c3a6db4"
   Hint: Name
   Value: Sites
 - ID: "9c596379-f8d4-45d1-a064-cdf1ede2e7c7"
   Hint: Templates
-  Value: "{F5C7AC6F-BB6B-4D1D-9452-511C6079E3A4}"
+  Value: "{AB442B0E-2327-402B-A624-3F27D02DF7B7}"
 - ID: "b6953f8b-56d3-4c90-a6db-885786711e4a"
   Hint: SettingsFolder
-  Value: "{D19EF81A-7BB1-49F6-8D10-15552C13B48E}"
+  Value: "{12798D9B-A8C0-4630-B93C-FA293B46983B}"
 - ID: "c5dbb136-3299-4835-a8ce-bca8b49ba3fa"
   Hint: BranchesFolder
-  Value: "{572BBBF6-CAD4-4669-8B38-DEC50AEFFCCC}"
+  Value: "{63E59D29-F3E1-4543-AFF1-416CDD7E65CC}"
 - ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
   Hint: MediaLibrary
-  Value: "{A8AD60DB-C55D-4BCB-AA46-5B7EDAF1342A}"
+  Value: "{2500F976-D668-46B6-9D85-3D04BBF82BD8}"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{8453C078-6D17-4817-9230-91654AFE69C6}"
@@ -53,7 +53,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063012Z
+      Value: 20240823T043653Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -64,11 +64,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "732be44d-c1a6-4ef1-aabf-6243437ad4f6"
+      Value: "090f228d-962a-45ae-8fb0-b63077e63f7e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063017Z
+      Value: 20240823T043710Z

@@ -1,7 +1,7 @@
 ﻿---
-ID: "bc63586f-5bac-4dd8-a8d3-09c744aae927"
-Parent: "9b7a6964-5c6f-4a53-a580-44412020579d"
-Template: "ff2e08b8-68f4-4c89-8608-9f3861e9182a"
+ID: "967c602b-7584-481d-a519-63ecb0dbc9c9"
+Parent: "d3a91ad6-3db4-49d2-a118-744afd95b704"
+Template: "b8ad3ff7-6608-4466-bead-703c7f515028"
 Path: /sitecore/content/Sites/sxastarter
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
@@ -25,10 +25,10 @@ SharedFields:
     {ED6C4A9B-E3DC-413A-BEF6-337ABB7FD2C7}
 - ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
   Hint: SitemapMediaItems
-  Value: "{F0BF5C1A-84A3-4C34-9A17-F53F1AD82F85}"
+  Value: "{857C917B-B9FD-490A-A6CF-DA8D8B7EE9EF}"
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
-  Value: "{C420899D-011F-4E73-9108-907C6E783F7D}"
+  Value: "{61A93D32-74C5-451E-A128-AEC16ABCEE17}"
 - ID: "85a7501a-86d9-4243-9075-0b727c3a6db4"
   Hint: Name
   Value: sxastarter
@@ -42,7 +42,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063051Z
+      Value: 20240823T043755Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -53,11 +53,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c043187c-8b11-46ea-9f77-17a03efdf0d1"
+      Value: "5b37c8d1-6f37-4bbc-8164-8a0e1ebaa5f3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063930Z
+      Value: 20240823T044339Z

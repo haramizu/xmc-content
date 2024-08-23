@@ -1,6 +1,6 @@
 ﻿---
-ID: "3d352b2a-c2b7-4c8c-b847-2a0e6f3bd448"
-Parent: "f4b65927-9814-494a-afc6-ec63c4aa661d"
+ID: "aa9c923c-f8ca-4b1b-bafe-79daab6ef3a1"
+Parent: "12bac78a-6a60-466d-a57c-004eb01b4c33"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
 Path: /sitecore/content/Sites/sxastarter/Home/About/Data/Text 1
 BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063111Z
+      Value: 20240823T043818Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -35,11 +35,11 @@ Languages:
         <span style="line-height: 32px; font-weight: 500; font-size: 16px;">Pellentesque malesuada, quam varius scelerisque varius, sem arcu ultricies neque, in aliquam nulla sem vel arcu. Duis blandit, erat sed fringilla semper, arcu lectus interdum enim, et rutrum magna diam id nunc. Nunc ac orci at diam gravida mollis sed ac leo. Aliquam erat volutpat. Aliquam massa ante, posuere a nisl ut, consectetur malesuada felis. Vivamus congue sodales tortor. Sed ut lacus sit amet eros consectetur laoreet rutrum eu arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc sed gravida enim. Etiam at massa sollicitudin, vulputate nisi quis, porttitor magna. Cras nec commodo tortor. Sed id orci erat.</span></p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2f8e2e54-599f-445f-9565-4de7925d6252"
+      Value: "78846d6f-7361-4d28-b88b-87c3c7c6f79f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063111Z
+      Value: 20240823T043818Z

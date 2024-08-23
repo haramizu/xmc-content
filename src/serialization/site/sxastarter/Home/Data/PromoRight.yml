@@ -1,6 +1,6 @@
 ﻿---
-ID: "f61772b7-e8f8-4f0b-b948-ae99f96c4443"
-Parent: "5073031d-5e3f-4255-99e4-a239191b156f"
+ID: "c4330af8-1b45-4939-8fde-46a56df3bd54"
+Parent: "6f90340a-5974-40d8-8164-314bda31dc55"
 Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
 Path: /sitecore/content/Sites/sxastarter/Home/Data/PromoRight
 BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063114Z
+      Value: 20240823T043821Z
     - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
       Hint: PromoText
       Value: |
@@ -31,14 +31,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d0dfaaee-05b6-4801-a920-6ebfc51a0d80"
+      Value: "77bc0a62-736a-4d0f-9600-d0373c3b88cb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063114Z
+      Value: 20240823T043821Z
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |

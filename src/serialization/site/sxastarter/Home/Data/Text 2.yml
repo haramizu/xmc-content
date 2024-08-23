@@ -1,6 +1,6 @@
 ﻿---
-ID: "6c8fe058-d96e-4a74-8035-d0b6f4392c81"
-Parent: "5073031d-5e3f-4255-99e4-a239191b156f"
+ID: "1da861e6-e05f-4386-a5f0-b49b940f7939"
+Parent: "6f90340a-5974-40d8-8164-314bda31dc55"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
 Path: /sitecore/content/Sites/sxastarter/Home/Data/Text 2
 BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063115Z
+      Value: 20240823T043821Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,11 +31,11 @@ Languages:
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus.&nbsp;</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "372b95d7-fcba-4eb3-9796-a7d91b0bd896"
+      Value: "d79f5a93-87cd-4032-8ee7-519301040b05"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063115Z
+      Value: 20240823T043821Z

@@ -1,6 +1,6 @@
 ﻿---
-ID: "6cf85792-a4bc-4b01-8241-b7da7b3d16de"
-Parent: "17ada2a6-9db5-4489-8398-e4b5cea8f809"
+ID: "6c5bec4c-61cf-4bb6-9924-a2ec5d4ea412"
+Parent: "19292667-2104-4370-8317-83265e1d69aa"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: /sitecore/content/Sites/sxastarter/Presentation/Styles/Rich text/Custom bullet points
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -26,7 +26,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063103Z
+      Value: 20240823T043809Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -37,11 +37,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9b50aef1-e2c5-40da-87c6-3880178b18c2"
+      Value: "c4679026-8b49-41b6-b67a-b3196cf5eee7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063103Z
+      Value: 20240823T043809Z

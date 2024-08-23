@@ -1,6 +1,6 @@
 ﻿---
-ID: "f359d0e3-0768-4848-b02f-f5fffbd0af44"
-Parent: "0d314e36-24b4-4eeb-96b9-b746b1d96614"
+ID: "101616eb-2fff-4244-98d9-e19f7d513cfa"
+Parent: "12b1801c-5ed0-4a3c-97ec-350a9f0986d4"
 Template: "c14bf746-030f-4e59-8594-395f6d299e61"
 Path: /sitecore/content/Sites/sxastarter/Settings/Shared Sites Settings
 BranchID: "55330bb7-6095-414a-b29b-0042ce8d9331"
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063054Z
+      Value: 20240823T043759Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -26,11 +26,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b81750af-d6df-4527-bed6-c0ab67b47449"
+      Value: "b9e951fe-addd-40f9-8221-fdd23ab08bdb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063054Z
+      Value: 20240823T043759Z

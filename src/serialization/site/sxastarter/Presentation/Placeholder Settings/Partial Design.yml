@@ -1,6 +1,6 @@
 ﻿---
-ID: "3dd1f63c-801d-4b7c-9f8b-f59c0b0960ad"
-Parent: "fcc5476f-9b2d-4a7b-8010-3891154498b7"
+ID: "50254373-bbe3-4c97-b08d-a7f1e71dce8b"
+Parent: "32fbc1b3-b1aa-4092-9219-5f92d4784dba"
 Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
 Path: /sitecore/content/Sites/sxastarter/Presentation/Placeholder Settings/Partial Design
 Languages:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063055Z
+      Value: 20240823T043800Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "eda280aa-f5e3-42d9-8dd7-09723df1b629"
+      Value: "77e9af68-83e6-49a4-a793-7931e73f6f77"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063055Z
+      Value: 20240823T043800Z

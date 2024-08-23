@@ -1,7 +1,7 @@
 ﻿---
-ID: "6ac1fbb1-cb46-4c4e-9417-81834578c311"
-Parent: "58db13d0-efe8-45b9-a444-6f2e63c7c1a7"
-Template: "58db13d0-efe8-45b9-a444-6f2e63c7c1a7"
+ID: "7411654d-2728-403d-bb4a-78a552cd65dc"
+Parent: "9ecfa79e-dc84-41cb-8bec-6d40bda09b34"
+Template: "9ecfa79e-dc84-41cb-8bec-6d40bda09b34"
 Path: /sitecore/templates/Project/Sites/JSS Settings/__Standard Values
 Languages:
 - Language: en
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063012Z
+      Value: 20240823T043651Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "da2b5fcd-f22a-4639-8002-10b2583b0428"
+      Value: "f08b8e26-6f2b-451d-a834-b13d8152621b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063012Z
+      Value: 20240823T043651Z

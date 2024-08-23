@@ -1,25 +1,28 @@
 ﻿---
-ID: "72c59070-a4b0-4279-817d-52349b59493b"
-Parent: "ba4cedce-9950-4c58-8b99-f583972fc47b"
+ID: "ab4c827d-f64a-4b97-be5a-f6c816870dca"
+Parent: "e059de9f-fb08-4a32-993c-9b392e1c74e0"
 Template: "e46f3af2-39fa-4866-a157-7017c4b2a40c"
 Path: /sitecore/content/Sites/sxastarter/Settings/Site Grouping/sxastarter
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
-  Value: "{DE44B2EF-820D-44F3-A444-508411378FDC}"
+  Value: "{32B9A0F1-52BD-40B0-ADC3-E3BB2397B50D}"
 - ID: "301e719a-6f65-4874-b565-a953a7b5ac83"
   Hint: OtherProperties
   Value: isSiteThumbnailSource=true
 - ID: "6dd8a774-2ce5-4c9e-be7f-1eaf65789956"
   Hint: ThumbnailsRootPath
-  Value: "{C420899D-011F-4E73-9108-907C6E783F7D}"
+  Value: "{61A93D32-74C5-451E-A128-AEC16ABCEE17}"
 - ID: "85a7501a-86d9-4243-9075-0b727c3a6db4"
   Hint: Name
   Value: sxastarter
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
   Value: *
+- ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
+  Hint: POS
+  Value: en=sitecoredemo.jp&ja=ja.sitecoredemo.jp
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: sxastarter
@@ -39,7 +42,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063052Z
+      Value: 20240823T043756Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -50,11 +53,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "15fd7f71-4b76-448c-85a6-1eb44d902265"
+      Value: "f73a744b-edae-438b-9cc2-cb9d72df8846"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063119Z
+      Value: 20240823T044757Z

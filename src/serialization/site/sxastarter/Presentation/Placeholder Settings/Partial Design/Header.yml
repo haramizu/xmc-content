@@ -1,6 +1,6 @@
 ﻿---
-ID: "2cf2e5cc-c903-40f3-8db3-14c3c31187c7"
-Parent: "3dd1f63c-801d-4b7c-9f8b-f59c0b0960ad"
+ID: "28e26733-f088-4ee2-b2f1-fe9cae1637e5"
+Parent: "50254373-bbe3-4c97-b08d-a7f1e71dce8b"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: /sitecore/content/Sites/sxastarter/Presentation/Placeholder Settings/Partial Design/Header
 SharedFields:
@@ -14,7 +14,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063113Z
+      Value: 20240823T043819Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,11 +25,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9e74572a-5693-4425-b9f1-cc6ab705aa21"
+      Value: "5888e736-1a6d-4831-ac24-4eb3d32a7ecc"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063113Z
+      Value: 20240823T043819Z

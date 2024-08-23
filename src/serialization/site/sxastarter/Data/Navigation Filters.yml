@@ -1,6 +1,6 @@
 ﻿---
-ID: "f1e8d585-8014-4bee-ad7c-cf6eaf55c858"
-Parent: "71c80f02-317f-46ea-b054-79800b3296e7"
+ID: "15e31caa-ddfe-4be9-af74-47dc62250cf4"
+Parent: "5921ab2f-f4e9-4bbb-8a56-cb1eeacf5659"
 Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
 Path: /sitecore/content/Sites/sxastarter/Data/Navigation Filters
 Languages:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063106Z
+      Value: 20240823T043813Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "37edb257-2718-4f85-9195-2434018fc866"
+      Value: "82af9aee-038b-428b-8bd8-5c1256ccc32c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063106Z
+      Value: 20240823T043813Z

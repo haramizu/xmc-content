@@ -1,6 +1,6 @@
 ﻿---
-ID: "17997532-cad4-4f95-9247-4d4a5137c768"
-Parent: "1126e8da-d2e5-4ccb-bee3-b41c2e51f6ce"
+ID: "6f421c10-cccc-4b46-815b-5eb45bb79c6d"
+Parent: "cc2c1cec-40ff-4290-b019-755d2b60fd1a"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
 Path: /sitecore/content/Sites/sxastarter/Presentation/Partial Designs/Header/Data/Title
 BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063113Z
+      Value: 20240823T043820Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -29,11 +29,11 @@ Languages:
       Value: <h1>Skate Park</h1>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "186a1d9e-4c92-4a29-9d6a-1f12bd0420e2"
+      Value: "d76f5f21-4179-4788-8eac-40c83ee88ef6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063113Z
+      Value: 20240823T043820Z

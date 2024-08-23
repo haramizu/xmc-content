@@ -1,13 +1,13 @@
 ﻿---
-ID: "0d314e36-24b4-4eeb-96b9-b746b1d96614"
-Parent: "bc63586f-5bac-4dd8-a8d3-09c744aae927"
-Template: "58db13d0-efe8-45b9-a444-6f2e63c7c1a7"
+ID: "12b1801c-5ed0-4a3c-97ec-350a9f0986d4"
+Parent: "967c602b-7584-481d-a519-63ecb0dbc9c9"
+Template: "9ecfa79e-dc84-41cb-8bec-6d40bda09b34"
 Path: /sitecore/content/Sites/sxastarter/Settings
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "0129da3f-8c86-4591-ae32-6ec923413923"
   Hint: DictionaryDomain
-  Value: "{00AC222A-F75B-4CB6-B3DF-EFA8B1E1C911}"
+  Value: "{29CF05CF-B996-4FE8-AD30-214C0AB2DC83}"
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
@@ -16,16 +16,16 @@ SharedFields:
   Value: Settings Route
 - ID: "32ce6bbe-4217-46e5-9335-42793884cbe3"
   Hint: AppTemplate
-  Value: "{FF2E08B8-68F4-4C89-8608-9F3861E9182A}"
+  Value: "{B8AD3FF7-6608-4466-BEAD-703C7F515028}"
 - ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
   Hint: Name
   Value: sxastarter
 - ID: "5764d2d4-724d-4313-a81b-9246c911faff"
   Hint: AppDatasourcesPath
-  Value: "{71C80F02-317F-46EA-B054-79800B3296E7}"
+  Value: "{5921AB2F-F4E9-4BBB-8A56-CB1EEACF5659}"
 - ID: "5ca117eb-8782-4a4f-9f2f-30de31fc2e34"
   Hint: PlaceholdersPath
-  Value: "{4AEF0461-F399-4466-BF5E-D02C344456BE}"
+  Value: "{F1972AED-43DE-41AD-9A23-B505D523D7AD}"
 - ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
   Hint: FilesystemPath
   Value: /dist/sxastarter
@@ -34,7 +34,7 @@ SharedFields:
   Value: http
 - ID: "a7bbad73-b933-49ff-95c8-1c269cb35e7c"
   Hint: DictionaryPath
-  Value: "{00AC222A-F75B-4CB6-B3DF-EFA8B1E1C911}"
+  Value: "{29CF05CF-B996-4FE8-AD30-214C0AB2DC83}"
 - ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
   Hint: EditingTheme
   Value: "{3BCAB9EF-1E4F-4C23-B452-783BB82AA686}"
@@ -46,10 +46,10 @@ SharedFields:
   Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
 - ID: "e8881464-38af-4655-be4a-ee10586578a2"
   Hint: Templates
-  Value: "{F5C7AC6F-BB6B-4D1D-9452-511C6079E3A4}"
+  Value: "{AB442B0E-2327-402B-A624-3F27D02DF7B7}"
 - ID: "f29428d5-1285-48b8-a884-44057965829a"
   Hint: RenderingsPath
-  Value: "{893D69D8-B2D6-44C3-B1D4-283BE6F0E3ED}"
+  Value: "{2037B3D2-E096-4AF1-9083-6D04B265472D}"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{0FEEB907-58F0-44DE-B08C-2F43C063D0A5}"
@@ -60,7 +60,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063052Z
+      Value: 20240823T043756Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -71,11 +71,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2be778da-ce44-4149-81fa-6d4f210452e9"
+      Value: "7a6de695-b485-471a-8d5f-620dc5695380"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063053Z
+      Value: 20240823T043758Z

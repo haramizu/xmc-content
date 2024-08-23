@@ -1,6 +1,6 @@
 {
   "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
-  "namespace": "Project.SxaStarterExample",
+  "namespace": "sxastarter",
   "items": {
     "includes": [
       {
@@ -73,17 +73,6 @@
       {
         "name": "site",
         "path": "/sitecore/content/Sites/sxastarter"
-      },
-      {
-        "name": "languages",
-        "path": "/sitecore/system/Languages/ja-JP",
-        "scope": "singleItem"
-      },
-      {
-        "name": "core-languages",
-        "path": "/sitecore/system/Languages/ja-JP",
-        "scope": "singleItem",
-        "database": "core"
       }
     ]
   }

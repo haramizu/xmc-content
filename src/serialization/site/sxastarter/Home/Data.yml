@@ -1,6 +1,6 @@
 ﻿---
-ID: "5073031d-5e3f-4255-99e4-a239191b156f"
-Parent: "de44b2ef-820d-44f3-a444-508411378fdc"
+ID: "6f90340a-5974-40d8-8164-314bda31dc55"
+Parent: "32b9a0f1-52bd-40b0-adc3-e3bb2397b50d"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: /sitecore/content/Sites/sxastarter/Home/Data
 BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063114Z
+      Value: 20240823T043821Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -26,11 +26,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1964e8b3-1797-4031-88a3-64e832ee53bb"
+      Value: "a2a8b711-7607-40e8-9f4d-0502e2ec7ccf"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063114Z
+      Value: 20240823T043821Z

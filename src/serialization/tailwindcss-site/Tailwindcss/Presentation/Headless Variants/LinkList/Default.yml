@@ -1,24 +1,13 @@
 ﻿---
-ID: "f6c25ef5-4eba-41e3-898f-c42626987d5c"
-Parent: "64c4f646-a3fa-4205-b98e-4de2c609b60f"
-Template: "f68f13a6-3395-426a-b9a1-fa2dc60d94eb"
-Path: "/sitecore/system/Languages/ja-JP"
+ID: "ea53ae06-ad0c-4c78-a261-081721126b8b"
+Parent: "c138ea42-4106-4320-8287-676cc8972ac6"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tailwindcss/Tailwindcss/Presentation/Headless Variants/LinkList/Default
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
 SharedFields:
-- ID: "0620f810-9294-4f14-af9f-f5772efca0b2"
-  Hint: Regional ISO Code
-  Value: "ja-JP"
-- ID: "49e5e8f3-ed4a-4a06-abe1-b9408951dee9"
-  Hint: Charset
-  Value: "iso-2022-jp"
-- ID: "8728d8ff-66d9-40c2-8b34-c4fc1466942e"
-  Hint: Encoding
-  Value: "utf-8"
-- ID: "990596ce-0024-43f3-bf4c-a991bfa69b45"
-  Hint: Code page
-  Value: 65001
-- ID: "c437e416-8948-427d-a982-8ed37ae3f553"
-  Hint: Iso
-  Value: ja
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{25F1A8E5-EB4C-4202-A9F7-A97DB52DA9AF}"
 Languages:
 - Language: en
   Versions:
@@ -26,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T072019Z
+      Value: 20240620T043319Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -37,11 +26,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "42246fe4-60bd-431e-a679-5c237235b08b"
+      Value: "72a7c9c1-637b-4de3-9688-4c7b86dfcf92"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T072019Z
+      Value: 20240620T043319Z

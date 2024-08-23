@@ -1,6 +1,6 @@
 ﻿---
-ID: "d9752224-9c29-41aa-b8a7-d92b9a289d8c"
-Parent: "32db4c5e-55fc-49c3-a445-85157a97c85f"
+ID: "8068b7c9-d263-4828-97a5-e08d85da9d35"
+Parent: "aab70018-83c3-4237-aebe-a25b34928257"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: /sitecore/content/Sites/sxastarter/Presentation/Styles/Promo/Promo hero
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -24,7 +24,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240822T063104Z
+      Value: 20240823T043810Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -35,11 +35,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0737aabb-015c-4dd4-adc2-c23fd7e2eadb"
+      Value: "3f48e10b-d8e5-498e-9c0e-4f63bf0958f5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240822T063104Z
+      Value: 20240823T043810Z
