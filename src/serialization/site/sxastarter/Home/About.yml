@@ -11,7 +11,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{4F583202-4C4E-4085-9A68-20AE573FF1FA}" />
+    <image mediaid="{FEEE376F-747D-4D5B-BBEA-C2B804CD1100}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{2428512E-429F-43CB-8187-52AABFC583FE}"
@@ -79,16 +79,19 @@ Languages:
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: サイトについて
+    Value: このサイトについて
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240826T014849Z
+      Value: 20240827T052722Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{DE6F3C4B-D11B-47D6-8916-F2F116B0D442}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: サイトについて
+      Value: このサイトについて
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -99,14 +102,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ae1c4e6e-2a25-460c-880c-c1b2aec7699c"
+      Value: "80c316c4-e3d1-4e79-90b8-84f102ae8deb"
     - ID: "ac75f611-b53e-4569-93e5-f68137a4fe20"
       Hint: Title
-      Value: サイトについて
+      Value: このサイトについて
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240826T014905Z
+      Value: 20240827T052737Z
