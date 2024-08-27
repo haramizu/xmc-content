@@ -5,10 +5,16 @@ Template: "504f30e9-71ae-42fe-9f81-b5006338d516"
 Path: /sitecore/content/Sites/sxastarter/Home
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{2428512E-429F-43CB-8187-52AABFC583FE}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{37ABA73B-7B9D-443B-92E2-C7D7AADCE1FB}" />
+    <image mediaid="{43346117-AA0E-4427-9127-62C101FABA57}" />
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{2428512E-429F-43CB-8187-52AABFC583FE}"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -70,6 +76,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20240823T043756Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{DE6F3C4B-D11B-47D6-8916-F2F116B0D442}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Home
@@ -83,7 +92,7 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "383b0e67-e216-43cf-91a8-764b6e525a69"
+      Value: "65f1de9c-8f45-4fc0-b613-7c2a7b72c162"
     - ID: "ac75f611-b53e-4569-93e5-f68137a4fe20"
       Hint: Title
       Value: Home
@@ -93,7 +102,7 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240823T043826Z
+      Value: 20240827T050413Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
