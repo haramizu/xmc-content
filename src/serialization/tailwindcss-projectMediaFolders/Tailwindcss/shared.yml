@@ -1,6 +1,6 @@
 ﻿---
-ID: "ca4a2892-015c-4355-a70e-a92d10e2d1f5"
-Parent: "73043739-c43e-4736-a3eb-5dd8a91c4b09"
+ID: "526edcf7-51c0-4c95-b904-8364ed492bf3"
+Parent: "d75ca258-0660-446f-a765-bc4f2b13e3a9"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: /sitecore/media library/Project/Tailwindcss/shared
 Languages:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240620T042454Z
+      Value: 20240903T001835Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "570ef25e-8cc3-4028-9fc5-6349cb1ae28a"
+      Value: "469bd86e-03de-4bfa-bcb8-7ce125e09a50"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240620T042454Z
+      Value: 20240903T001835Z

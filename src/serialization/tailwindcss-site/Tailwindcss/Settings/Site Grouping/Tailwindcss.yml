@@ -1,16 +1,22 @@
 ﻿---
-ID: "7a813669-df41-43f0-a4a7-75e9fdcad8bc"
-Parent: "d1af1d10-a2e9-4d68-8c5d-55ec6f279311"
+ID: "1c4ace6c-e009-4108-8e86-442e740c577c"
+Parent: "9c119951-c9a7-4612-ac0b-3a035602123f"
 Template: "e46f3af2-39fa-4866-a157-7017c4b2a40c"
 Path: /sitecore/content/Tailwindcss/Tailwindcss/Settings/Site Grouping/Tailwindcss
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
-  Value: "{A4F8F13E-C28A-404F-8549-15E7533B0B67}"
+  Value: "{819432C0-EFF5-4D0D-82E4-50CD4782F948}"
+- ID: "301e719a-6f65-4874-b565-a953a7b5ac83"
+  Hint: OtherProperties
+  Value: isSiteThumbnailSource=true
 - ID: "6dd8a774-2ce5-4c9e-be7f-1eaf65789956"
   Hint: ThumbnailsRootPath
-  Value: "{33C250E0-602F-4C48-8F3C-8015B4D12BFC}"
+  Value: "{8768CF0F-49F2-4A6B-B747-3464A454118C}"
+- ID: "85a7501a-86d9-4243-9075-0b727c3a6db4"
+  Hint: Name
+  Value: Tailwindcss
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
   Value: *
@@ -33,7 +39,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240620T043312Z
+      Value: 20240903T001905Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -44,11 +50,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ecca7702-f16e-4fd5-88a9-3f060d9df93e"
+      Value: "1e4cc51b-5e1b-4421-ba10-8b2067070c09"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240620T043321Z
+      Value: 20240903T001925Z

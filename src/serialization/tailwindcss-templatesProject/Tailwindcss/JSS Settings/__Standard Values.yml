@@ -1,7 +1,7 @@
 ﻿---
-ID: "8dd7b551-75e3-4d36-9e17-5aea62e91788"
-Parent: "8b01f56b-1c8a-433a-ab26-5ffa179e5263"
-Template: "8b01f56b-1c8a-433a-ab26-5ffa179e5263"
+ID: "a7303174-756c-438c-b94a-7b51f5b16fa0"
+Parent: "6e6d4100-8c48-4cd3-bb15-4c935b3db1b4"
+Template: "6e6d4100-8c48-4cd3-bb15-4c935b3db1b4"
 Path: /sitecore/templates/Project/Tailwindcss/JSS Settings/__Standard Values
 Languages:
 - Language: en
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240620T042454Z
+      Value: 20240903T001834Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "65f0674d-dac3-4713-b351-6cc2a43d2b59"
+      Value: "3e9af7ce-2769-48d2-a802-4f5ff3e4a822"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240620T042454Z
+      Value: 20240903T001834Z

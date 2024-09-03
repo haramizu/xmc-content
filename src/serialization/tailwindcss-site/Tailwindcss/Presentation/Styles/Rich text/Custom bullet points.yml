@@ -1,6 +1,6 @@
 ﻿---
-ID: "c1b7ef98-7122-40c7-b2ad-6dc37e2c2745"
-Parent: "79be707f-a925-44a8-97bf-d24d121a20d3"
+ID: "037b550b-4080-4afc-a314-f250112979d2"
+Parent: "2d4caaeb-4d53-41be-bc9f-cf5834c46336"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: /sitecore/content/Tailwindcss/Tailwindcss/Presentation/Styles/Rich text/Custom bullet points
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -26,7 +26,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240620T043317Z
+      Value: 20240903T001917Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -37,11 +37,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "595c8059-a1c9-493e-b580-4e447c24ab7f"
+      Value: "97ad619f-6701-479e-9f1a-688bbeea7bd6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240620T043317Z
+      Value: 20240903T001917Z
