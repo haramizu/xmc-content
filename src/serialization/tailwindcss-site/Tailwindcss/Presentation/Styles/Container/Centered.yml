@@ -1,6 +1,6 @@
 ﻿---
-ID: "d6d18859-5e6f-459c-b140-d018dd0e95c1"
-Parent: "5200d787-fb0c-4f03-a7af-d17849d10e0e"
+ID: "155c79a9-d2f2-4735-835b-f6567c3ca2fe"
+Parent: "a991c02c-8698-48a5-859a-0d52ebdaaaf5"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: /sitecore/content/Tailwindcss/Tailwindcss/Presentation/Styles/Container/Centered
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -21,7 +21,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240903T001918Z
+      Value: 20240620T043318Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -32,11 +32,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e28244c8-fb9f-41e8-939c-348a07f9cd62"
+      Value: "311c2e0c-a006-46d4-a201-43b6529a87dd"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240903T001918Z
+      Value: 20240620T043318Z

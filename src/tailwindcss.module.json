@@ -25,19 +25,7 @@
       },
       {
         "name": "tailwindcss-projectMediaFolders",
-        "path": "/sitecore/Media Library/Project/Tailwindcss",
-        "rules": [
-          {
-            "path": "/shared",
-            "scope": "SingleItem",
-            "allowedPushOperations": "CreateOnly"
-          },
-          {
-            "path": "/Tailwindcss",
-            "scope": "SingleItem",
-            "allowedPushOperations": "CreateOnly"
-          }
-        ]
+        "path": "/sitecore/Media Library/Project/Tailwindcss"
       },
       {
         "name": "tailwindcss-layoutsFeature",

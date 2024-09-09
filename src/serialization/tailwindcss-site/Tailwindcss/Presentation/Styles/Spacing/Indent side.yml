@@ -1,6 +1,6 @@
 ﻿---
-ID: "76b810fc-f6a0-40fb-b644-60233e1cdde8"
-Parent: "77c981e6-e12d-439d-bdd2-3bb416a944ce"
+ID: "59cd1aac-9908-4b0c-a3bd-0deea1c5166d"
+Parent: "1cd96c9a-5c1f-4726-a4b4-dd41fe0940ce"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: /sitecore/content/Tailwindcss/Tailwindcss/Presentation/Styles/Spacing/Indent side
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -27,7 +27,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240903T001914Z
+      Value: 20240620T043316Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -38,11 +38,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2cb3d27d-181c-4e49-9966-b4cf801820f7"
+      Value: "a4e8e40a-2dba-4f76-a552-ce89eb13d099"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240903T001914Z
+      Value: 20240620T043316Z

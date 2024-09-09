@@ -1,6 +1,6 @@
 ﻿---
-ID: "c74e3808-ea9a-44a3-8a3e-27975d9db9db"
-Parent: "7c7e29e2-8b50-4132-8525-57dca580f32e"
+ID: "98a12177-ae9a-4bdb-b57c-53cd7170cc26"
+Parent: "beeb1038-6930-4ddb-b910-15b31eb2eb86"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Project/Tailwindcss/Headless Site
 SharedFields:
@@ -16,7 +16,7 @@ SharedFields:
     {3BC304DB-FE8F-4AA8-B95C-8C331E823F4C}
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{176C369E-7174-43C7-91AB-467BF90C84BB}"
+  Value: "{69E4F3D3-EC1F-4C18-AB73-ACA823AD119D}"
 Languages:
 - Language: en
   Versions:
@@ -24,7 +24,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240903T001834Z
+      Value: 20240620T042454Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -35,11 +35,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c3a5f799-b47c-43d5-8367-2f42fee8fc5e"
+      Value: "a7d7f6e2-3b27-44e3-bba2-6ff865a696de"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240903T001840Z
+      Value: 20240620T042455Z

@@ -1,6 +1,6 @@
 ﻿---
-ID: "134f25db-fbba-4fdc-9e0f-cd3139353596"
-Parent: "3a7b3ef9-9f6f-4ad1-a6ff-83d791d2eb16"
+ID: "4bce331e-4192-4d90-a0b3-678e11931d08"
+Parent: "95c521c3-9607-4875-b888-0aa1dbfc99fb"
 Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
 Path: /sitecore/content/Tailwindcss/Tailwindcss/Data/Navigation Filters
 Languages:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240903T001920Z
+      Value: 20240620T043318Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cd3199be-6132-4b87-b74d-c2a7cad43dc1"
+      Value: "ec4b8deb-d635-44ca-83e5-a24b5445ab63"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240903T001920Z
+      Value: 20240620T043318Z

@@ -1,6 +1,6 @@
 ﻿---
-ID: "0024581f-979a-41b2-b76c-953ffd184af2"
-Parent: "7e469a4d-1258-4a0f-96b6-dc9c15627408"
+ID: "6f26b95a-6007-410d-8591-fa216273cf6a"
+Parent: "45dceead-1a98-4344-bfab-60e6e357e275"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: /sitecore/content/Tailwindcss/Tailwindcss/Presentation/Styles/Background color/Dark background
 BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
@@ -24,7 +24,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240903T001915Z
+      Value: 20240620T043317Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -35,11 +35,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d4b78d5a-ae77-40e2-bf9c-9441c2be5897"
+      Value: "c1994475-ab8a-4e60-9571-31435e23ed1a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240903T001915Z
+      Value: 20240620T043317Z
